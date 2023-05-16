@@ -1,2 +1,2 @@
 # repo.project
-My first project
+My first projects
